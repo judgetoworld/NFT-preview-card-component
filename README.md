@@ -27,7 +27,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [NFT preview card component ](https://www.frontendmentor.io/solutions/nft-preview-card-component-tailwind-css-FN3tcexyJI)
+- Solution URL: [NFT preview card component ](https://github.com/judgetoworld/NFT-preview-card-component)
 
 <br>
 
