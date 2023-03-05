@@ -6,7 +6,7 @@
 
   <h2 align="center">NFT preview card component solution</h2>
   <p align="center">
-    <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://github.com/judgetoworld/NFT-preview-card-component"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
     <a href="https://github.com/judgetoworld">View Demo</a>
